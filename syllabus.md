@@ -18,13 +18,20 @@ description: Course structure and policies.
 
 ## About 🧐
 
-Welcome to DSC 20! This class will be different compared to DSC 10, so let's work **together** in order to make sure that the transition is as smooth as possible. Do not worry if something does not work right away or you feel lost! We are here to help and guide you through the process. 
+Welcome to DSC 40B in Winter 2026! This page should answer most of the questions you might have about how the course is run; If you don't find what you're looking for here, feel free to make a post on Campuswire.
 
+Here is what the syllabus will cover:
+
+
+## Instructor
+
+- **Dr. Marina Langlois**<br>
+    `malanglois at ucsd.edu`<br>
 ---
 
-## Communication 💬
+### Communication 💬
 
-This quarter, we'll be using [Campuswire](https://campuswire.com/p/GDD0A660F) as our course message board. You will be added at the beginning of the quarter.  If you're not able to access it, please self enroll using a given link, as we'll be making **all course announcements** through it.
+This quarter, we'll be using [Campuswire](https://campuswire.com/c/GEFA09C62/) as our course message board. You will be added at the beginning of the quarter.  If you're not able to access it, please self enroll using a given link, as we'll be making **all course announcements** through it.
 
 If you have a question about anything to do with the course — if you're stuck on a assignment problem, want clarification on the logistics, or just have a general question about data science — you can make a post on Campuswire. We only ask that if your question includes some or all of your code, please make your post **private** so that others cannot see it. You can also post anonymously if you would prefer.
 
@@ -32,115 +39,161 @@ Course staff will regularly check Campuswire and try to answer any questions tha
 
 ---
 
-## Technology 🖥
+### Gradescope 🖥
 
-We will be using several websites this quarter. Here's what they're all used for:
-
-- [Course Website](https://dsc20.org/): where all content will be posted.
-- [Campuswire](https://campuswire.com/p/GDD0A660F): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur. You should be automatically added to Campuswire. 
-- [Canvas](https://canvas.ucsd.edu/courses/74215): where all of the reading quizzes and discussion quizzes will be posted.
-- [Gradescope](https://www.gradescope.com/courses/1287267): where all assignments are submitted and all grades live. You should be automatically added to Gradescope; let us know if that's not the case.
-- [Webclicker](https://webclicker.web.app/): where attendance questions are answered in class
-- [UCSD Podcast](https://podcast.ucsd.edu/): where lectures and discussion sections are recorded. You may also go to *Canvas* > *Media Gallery*. You may search the course code.
-
-If you will not have reliable access to a computer this quarter, please reach out to us ASAP, as the university may be able to accommodate you.
+We will be using [Gradescope](https://www.gradescope.com/courses/1288060): where all assignments are submitted and all grades live. You should be automatically added to Gradescope; let us know if that's not the case.
 
 ---
 
-## Class Components 🍎
+### Required Materials 🍎
 
-### Readings (5%)
+You will not need to purchase any materials for this course; we'll use lecture slides the main
+resource, as well as our own [course notes](./materials/default/notes/book.pdf).
+If you'd like additional textbooks to study from, we can recommend these:
 
-To prepare you for class sections, there will be readings and/or video watching assignments to be completed before each class. This reading is required and the reading quiz activity will be assigned before each class. Reading quizzes will be done online via Canvas. You will have 3 attempts and the best one will be retained.
+- Dasgupta, Papadimitriou, Vazirani; *Algorithms*
+- Cormen, Leiserson, Rivest, Stein; *Introduction to Algorithms*
 
-Notes:
-- Deadline is the Friday midnight of the week of the lecture. Ideally, submit before each lecture to be in sync with the lecture schedule.
-- Refer to *Schedule* > *Readings* column for assigned reading.
-- 3 lowest scores will be dropped.
+These books are also excellent resources for preparing for coding interviews.
 
-### Lecture Participation (2%)
+## Lecture Participation (1% EXTRA CREDIT)
 
-You will demonstrate lecture participation by engaging with frequent in-class polls. The course will be using the poll software [webclicker](https://webclicker.web.app/) and as long as you respond to 80% of the questions during a lecture, you will earn the point for the day.
+Lectures will be held in-person at the regularly-scheduled time and place. They will be podcasted and posted online. 
+
+
+You will demonstrate lecture participation by engaging with in-class polls. The course will be using the poll software [webclicker](https://webclicker.web.app/) and as long as you respond to 80% of the questions during a lecture, you will earn the point for the day.
 
 Notes:
 - The first class does not count toward your participation.
-- You have two weeks worth of classes that you can miss without penalty throughout the quarter (i.e. 6 lectures). Does not have to be consecutive.
-- **NEW THIS QUARTER**: If you score >=93% on a mideterm, I will drop the corresponding weeks. 
+- If you came to the class, please stay until the end. 
 
+## Office Hours
 
-Process:
-- Before each class you need to join the session using any device with **your UCSD email** in order to register your vote. 
-- Participation scores will be posted periodically to Canvas. You must resolve all issues by the end of Week 1. Failure to ensure that you are getting your participation credit before then will result in a 0 for the days that you have not received credit.
-- You must bring your phone or computer to every class. Forgetting it counts as missing a class.
+Course staff, including tutors, TAs, and instructors, will hold office hours
+regularly throughout the week. Please see the [office
+hours](./office_hours.html) page for the schedule and for instructions.
 
-### Live Practice (8%)
+## Discussions: 4%
 
 Where:
-- PODEM 1A20
+- SOLIS 104
 
 When:
-- 3:00-3:50pm
+- 2:00-2:50pm
 
-The purpose of these activites is to supplement course content and offer live practice to help with the programming assignments. 
+The discussions review the materials from that week's lectures and
+prepare you for the homework. Just as with lecture, topics and techniques introduced
+in discussion might appear on the homework and in exams. 
+
+The purpose of these activites is to supplement course content and offer live practice to help with the exam/HW problems. Attendance is required. The discussions will not be podcasted but you can find the discussion sheet and solutions on the course website.
 
 Process:
 - You will be divided into groups of two randomly. 
 - You will be given problems to work on.
 - Together you should solve these questions and submit them on Gradescope.
-- After the time is up, we will collect your work and staff will go over the solutions. 
 - In order to record your participation, you will need to submit your solutions. 
 
 Note:
 - 1 lowest (missed Friday) score will be dropped. 
 
 
-### Labs (8%)
+## Labs
 
-Weekly labs are a required part of the course and will help you develop fluency in Python. The labs are designed to help you build the skills you need to complete homework assignments. Labs will be due midnight Monday by default (exceptions will be clearly marked on the write-up).
+There will be two types of assignments in DSC 40B: *labs* and *homeworks*.
+Labs help develop *essential* knowledge, while homeworks test your ability to
+apply that knowledge to solve more difficult problems. You can think of labs as
+a quick check on your understanding before you head into the homework.
 
-- Each person must submit each lab independently.
-- Total for all labs is capped at 100%. If your total score is above maximum possible of the lab category (at the end of the quarter), it will be capped to 100%.
-- The lowest lab score will be dropped.
+Labs consist of a small number of autograded multiple choice or numerical answer
+questions. They will be posted on Gradescope weekly. The exams will mostly
+consist of questions of a similar format and difficulty as those on the labs.
+However, the exams will have a time limit, while the labs have no time limit.
 
-**Deadlines and Late Submissions**:
+In previous iterations of DSC 40B, these "essential" questions were actually a
+part of the homeworks. We have decided to move these essential problems to their
+own lab assignment, therefore making the homeworks shorter. This has a big
+benefit: because the labs are autograded and due before the homeworks, you'll
+get your lab grade *before* heading into the homework. This gives you an
+opportunity to patch up any misunderstandings.
 
-- Labs must be submitted by the midnight (11:59pm) deadline to be considered on time. 
-- You may turn them in as many times as you like before the deadline, and only the most recent submission will be graded, so it's a good habit to submit early and often. 
-- Late lab submissions will **NOT** be accepted.
 
-**Lab Regrade Policy**
-- You may only regrade labs for errors that are **NOT** related to your code part. For example, a space is missing in your doctest that prevents the autograder from running.
-- It will cost 1 point to request for such regrades.
-- Please submit your regrade requests within **4 days** of grade release.
-- See [Regrade Requests](#regrade-requests) for other general information.
 
-### Homeworks (16%)
+## Homeworks
 
-This class will have weekly homework assignments, which will usually be due to Gradescope on Mondays at 11:59pm (exceptions will be clearly marked on the write-up).
+There will be eight homeworks assigned throughout the quarter, plus one ["super homework"](#the-super-homework) (described below).
+Homeworks will be a mixture of written problems (which are manually graded by our tutor staff) and coding problems (which are autograded).
+Each homework will be due via
+Gradescope at 11:59 PM on the 
+${ vars.homeworks.due_date_of_first.strftime('%A').capitalize() } 
+after it
+is assigned except otherwise noted, and you'll have roughly a week to complete
+each assignment from the time it is posted.
 
-- Total for all homework is capped at 100%. If your total score is above maximum possible of the homework category (at the end of the quarter), it will be capped to 100%.
-- **No homework will be dropped**.
-- I have a right to interview a student if we find a suspicious assignment.
+### Regrade Requests
+
+If you feel that the grader has made a mistake, you may submit a regrade request
+via Gradescope within *one week* of the grades being released. Note that part
+of your grade is clarity, so if your answer was mostly right but unclear you may
+still not receive full credit.
+
+Note that **regrade** requests are not the same thing as **redemption** requests (though both are
+submitted on Gradescope in the same way). Unfortunately, we cannot offer
+redemption requests for homework problems as we do with lab problems — homework
+problems are typically more complex and require more time to grade, and
+regrading them would take more resources than we have available.
+
+
+### The "Super Homework"
+
+Instead of a comprehensive final exam, we'll have a comprehensive "Super
+Homework". The super homework will focus on the content from the last two weeks
+of the quarter, but it will also contain material from throughout DSC 40B. It
+will be about twice as long as a typical homework.
+
+Because the super homework covers twice as much material as a usual homework, it
+will be worth roughly twice as much. However, you may still collaborate on the super
+homework as long as you write up solutions in your own words.
+
+The super homework will be due during finals week (the exact date is yet to be determined).
+
+
+## Collaboration and AI
+
+You are welcome to *think* about the lab and homework problems
+together, but you must turn in your own solutions written in your own words.
+We feel that discussing homework problems is an excellent way to learn, but
+writing the solutions in your own words promotes a deeper, more solid
+understanding than discussion alone.
+
+We recommend the following way of working on the labs and homeworks. First,
+meet with your partner to discuss the solutions, but don't leave the meeting
+with anything written down. Wait an hour or so, then write up the solutions in
+your own words working from memory. In that hour, you inevitably forgot some
+of the details of the solution. If you find that you have trouble filling them
+in, its a sign that you might not have understood the solution as well as you
+first thought!
+
+You're also welcome to use AI (ChatGPT, etc.) in a similar way: you can
+talk to ChatGPT about a problem, but DO NOT copy its answer verbatim. Instead,
+wait about an hour and put the answer in your own words. Keep in mind that
+ChatGPT is infamous for being very confidently wrong, so be critical of its
+output. Also keep in mind that you won't have ChatGPT on the exams, so you'll
+need to understand the fundamental concepts for yourself in order to do well.
+
+If you have any questions or worries about whether your collaboration
+constitutes a violation of academic integrity, feel free to ask us on
+Campuswire.
+
+
+
 
 **Deadlines and Late Submissions**:
 
 - Homework assignments must be submitted by the midnight 11:59 pm deadline listed on the write-up to be considered on time. You may turn them in as many times as you like before the deadline, but only the most recent submission will be graded, so it's a good habit to submit early and often.
 - Homeworks may be submitted up to 24 hours late for no penalty, however late submissions should be reserved for exceptional circumstances. Repeated late submissions may result in course staff reaching out to discuss course progress.
 - Homework submissions after 24 hours late will **NOT** be accepted.
+- Lab's deadlines are set.
 
-**Homework Resubmission/Regrade Policy**:
-- For each homework after the grades are released, you may resubmit the homework once to correct your mistakes within a week (7 days). Style points cannot be redeemed, only autograder points.
-- You will get 80% of your score lost back for resubmission.
-- If your original submission results in autograder failure (e.g. timed out, compile error, etc.), you may additionally ask for a regrade before the resubmission (all within 7 days of grade release).
-  - For the first 2 homeworks compile errors and print vs. return issues can be regraded for free.
-  - After the first 2 weeks compile errors cost 10 points; print vs. return issues cannot be regraded if the write-up explicitly says return or print (use the resubmission attempt).
-  - If there are issues that are out of your control, we may regrade your submission for free.
-- **Important**: Please test your code locally before uploading and wait for the autograder message before you leave Gradescope.
-- See [Regrade Requests](#regrade-requests) for other general information.
-
-
-### Giving Feedback (1%)
-Since I included a few major components in this iteration of the class, I’d like to make sure that the class reflects your expectations. I will check in with you periodically and would like to reward you for your time.
 
 ### Midterm Exams (60%)
 
@@ -150,24 +203,48 @@ There will be three exams this quarter. All of them are during the lecture time 
 - Final (30%): March 14th, 8:00am-11:00am, in person. Location TBA.
 - This category is also capped at 100%.
 
+
 ### Final Exam
-The final exam for DSC 20 is a "no fault" final split into three sections:
 
-An **optional** Exam 1, Exams 2 and Exam 3 "Redemptions"
-If your score on the exam redemption section is higher than your score on the original exam, it will replace that grade. Getting a lower score on a redemption section cannot hurt you (but it will make us sad). As a consequence, the redemption sections are effectively optional.
+The final exam for DSC 40B is a "no fault" final split into two sections:
 
-Under this policy, a bad performance on an earlier exam can be erased by good performance on the same material in a later exam.
+1. An optional Midterm 01 "Redemption" section focusing on Lectures 01 &mdash; 08
+2. An optional Midterm 02 "Redemption" section focusing on Lectures 09 &mdash; 15
 
-**Example:** You got an "F" on Exam 1 and a "B" on Exam 2. You decide to take only the first redemption section on the final (though you could have taken both), and you receive an "A". Your midterm scores are now "A" and "B".
+If your score on the midterm redemption section is higher than your score on the
+original midterm, it will replace that grade. Getting a lower score on a
+redemption section cannot hurt you (but it will make us sad). As a consequence,
+the redemption sections are effectively optional.
 
-The redemption exams will be held on the date scheduled by the registrar.
+Under this policy, a bad performance on an earlier exam can be erased by good
+performance on the same material in a later exam.
 
+
+**Example**: You got an "F" on Midterm 1 and a "B" on Midterm 2. You decide to take only the
+first redemption section on the final (though you could have taken both), and you
+receive an "A". Your midterm scores are now "A" and "B".
+
+The redemption exams will be held on the date scheduled by the registrar: ${ vars.exams.Final.strftime('%A, %B %d') }.
+
+Note that the topics from Lectures 16, 17, and 18 are not on any exam. These will
+instead be tested in the [Super Homework](#the-super-homework).
+
+For the redemption exams, you're allowed one sheet of notes per exam that you're taking.
 
 
 ### Exam Pass Criterion
-In order to pass the class, the mean of your three exams scores (after redemption is taken into account) must be **50% or greater**.
 
-The reason for this policy is that the exams are the only assessment in this class which you are sure to complete by yourself, and so they are (in theory) the purest measure of your individual understanding. This policy is not meant to be punitive: If your exam scores are not above passing after several attempts, it indicates that you might be better served by retaking the class with a fresh start before moving on to later courses which will draw upon the material from DSC 20.
+In order to pass the class, the mean of your two midterm scores (after
+redemption is taken into account) must be 60% or greater.
+
+The reason for this policy is that the exams are the only assessment in this
+class which you are sure to complete by yourself, and so they are (in theory)
+the purest measure of your individual understanding. This policy is not meant to
+be punitive: If your exam scores are not above passing after several attempts,
+it indicates that you might be better served by retaking the class with a fresh
+start before moving on to later courses which will draw upon the material from
+${ vars.course_name }.
+
 
 See [Resources](../resources) for practice exams. All times and content are subject to change.
 
