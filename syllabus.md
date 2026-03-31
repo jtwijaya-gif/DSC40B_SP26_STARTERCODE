@@ -113,12 +113,7 @@ opportunity to patch up any misunderstandings.
 
 There will be eight homeworks assigned throughout the quarter, plus one ["super homework"](#the-super-homework) (described below).
 Homeworks will be a mixture of written problems (which are manually graded by our tutor staff) and coding problems (which are autograded).
-Each homework will be due via
-Gradescope at 11:59 PM on the 
-${ vars.homeworks.due_date_of_first.strftime('%A').capitalize() } 
-after it
-is assigned except otherwise noted, and you'll have roughly a week to complete
-each assignment from the time it is posted.
+Each homework should be handwritten. If not, you will get a warning at firtt, loose 25% for the second violation, 50% for the third one and a 0 for the rest. 
 
 ### Regrade Requests
 
@@ -179,14 +174,15 @@ Campuswire.
 
 ### Midterm Exams (69%)
 
-There will be three exams this quarter. 2 of them are during the lecture time and the third one is during the duscuusion. Please check the scedyle for the dates. 
+There will be three exams this quarter. 2 of them are during the lecture time and the third one is during the duscuusion. Please check the schedule for the dates. 
 
 ### Final Exam
 
 The final exam for DSC 40B is a "no fault" final split into two sections:
 
-1. An optional Midterm 01 "Redemption" section focusing on Lectures 01 &mdash; 08
-2. An optional Midterm 02 "Redemption" section focusing on Lectures 09 &mdash; 15
+1. An optional Exam 01 "Redemption"
+2. An optional Exam 02 "Redemption" 
+3. An optional Exam 03 "Redemption" 
 
 If your score on the midterm redemption section is higher than your score on the
 original midterm, it will replace that grade. Getting a lower score on a
@@ -201,7 +197,7 @@ performance on the same material in a later exam.
 first redemption section on the final (though you could have taken both), and you
 receive an "A". Your midterm scores are now "A" and "B".
 
-The redemption exams will be held on the date scheduled by the registrar: ${ vars.exams.Final.strftime('%A, %B %d') }.
+The redemption exams will be held on the date scheduled by the registrar.
 
 Note that the topics from Last Lectures are not on any exam. These will
 instead be tested in the [Super Homework](#the-super-homework).
@@ -219,11 +215,10 @@ class which you are sure to complete by yourself, and so they are (in theory)
 the purest measure of your individual understanding. This policy is not meant to
 be punitive: If your exam scores are not above passing after several attempts,
 it indicates that you might be better served by retaking the class with a fresh
-start before moving on to later courses which will draw upon the material from
-${ vars.course_name }.
+start before moving on to later courses.
 
 
-See [Resources](../resources) for practice exams. All times and content are subject to change.
+See [Resources](../resources) for practice exams (will be added soon). All times and content are subject to change.
 
 ---
 
@@ -250,7 +245,7 @@ than 93%.
 A+ grades are not awarded according to a threshold. Instead, A+'s are awarded
 to the top 5% of students by overall grade.
 
-Note that in order to pass the class, the mean of your two midterm scores (after redemption is taken into account) must be 60% or greater.
+Note that in order to pass the class, the mean of your three exam scores (after redemption is taken into account) must be 60% or greater.
 
 **Calculating your grade**: when calculating your lab and homework grades, you
 should weigh each assignment by the points possible on that assignment. In
