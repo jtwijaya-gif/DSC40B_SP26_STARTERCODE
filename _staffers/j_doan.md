@@ -1,6 +1,6 @@
 ---
 name: Jacob Doan
-role: Staff
+role: Tutor
 pronouns: he/him/his
 email: j5doan@ucsd.edu
 photo: ../assets/images/j_doan.jpg
