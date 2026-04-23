@@ -6,6 +6,24 @@ def swap_sum(A, B):
     contain integers.
 
     """
-    # TODO: Implement the swap_sum function
-    
+    sum_A = sum(A)
+    sum_B = sum(B)
+
+    target = (10 + sum_A - sum_B) / 2
+
+    i = 0
+    j = 0
+
+    while i < len(A) and j < len(B):
+        diff = A[i] - B[j]
+
+        if diff == target:
+            return (i, j)
+
+        elif diff < target:
+            i += 1
+
+        else:
+            j += 1
+
     return None
